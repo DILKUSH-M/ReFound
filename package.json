@@ -1,0 +1,14 @@
+
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Campus Lost and Found Platform",
+  "scripts": {},
+  "keywords": [
+    "lost-and-found",
+    "campus",
+    "mongodb"
+  ],
+  "license": "ISC"
+}
